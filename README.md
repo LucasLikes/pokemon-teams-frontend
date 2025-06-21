@@ -18,10 +18,10 @@ Ainda há muito o que fazer, e pretendo continuar aprimorando esse frontend, mas
 ## 🖼️ Capturas de Tela
 
 ### Tela Inicial do App
-![Tela Inicial](docs/app_inicial.png)
+![Tela Inicial](pokemon_teams_app/docs/app_inicial.png)
 
 ### Visualização dos Dados da API
-![API](docs/pokeapi.png)
+![API](pokemon_teams_app/docs/pokeapi.png)
 
 ## Funcionalidades
 
